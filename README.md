@@ -14,7 +14,7 @@ React music application:
 
 2. Redux
 
-3.Tailwind css
+3. Tailwind css
 
 # Getting Started
 1. Install the dependencies
